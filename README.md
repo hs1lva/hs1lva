@@ -8,8 +8,8 @@ I'm a dedicated professional working in the cybersecurity department at EDP, whe
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hugonsilva/)
-- Website: [![Website](https://img.shields.io/badge/Website-Visit-ff5722?style=for-the-badge&logo=firefox)](https://hugosilvacv.wordpress.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hugonsilva/)
+[![Website](https://img.shields.io/badge/Website-Visit-ff5722?style=for-the-badge&logo=firefox)](https://hugosilvacv.wordpress.com/)
 
 ### 🚀 Professional Interests
 
