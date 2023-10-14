@@ -19,7 +19,7 @@ I'm a dedicated professional working in the cybersecurity department at EDP, whe
 
 ### 📫 Contact Me
 
-Feel free to reach out to me at [hugo20silva@hotmail.com] if you'd like to collaborate, discuss a project, or simply have a chat. I'm always open to new opportunities and conversations!
+Feel free to reach out to me at hugo20silva@hotmail.com if you'd like to collaborate, discuss a project, or simply have a chat. I'm always open to new opportunities and conversations!
 
 ### 📈 GitHub Stats
 
